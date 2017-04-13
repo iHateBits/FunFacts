@@ -11,6 +11,10 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class FunFactsActivity extends AppCompatActivity {
+
+    /*
+        Added this simple comment just to test how android studio, and github work together.
+     */
     // view variables:
     private TextView mFactTextView;
     private Button mShowFactButton;
