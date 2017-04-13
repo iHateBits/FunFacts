@@ -14,6 +14,7 @@ public class FunFactsActivity extends AppCompatActivity {
 
     /*
         Added this simple comment just to test how android studio, and github work together.
+        I don't even know!
      */
     // view variables:
     private TextView mFactTextView;
